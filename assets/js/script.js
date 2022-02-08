@@ -28,5 +28,5 @@ function getApi() {
         restaurantList.appendChild(listItem);
     }
     })
-}
+};
 getApi();
