@@ -10,3 +10,15 @@ header h1 {
     font-weight: bold;
     color: brown;
 }
+
+.user-input-form {
+    height: 80px;
+    width: 150px;
+    margin: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.form-elements {
+    margin: 5px;
+}
